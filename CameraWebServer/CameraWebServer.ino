@@ -9,8 +9,8 @@
 // ===========================
 // Enter your WiFi credentials
 // ===========================
-const char *ssid = "Kernyx";
-const char *password = "0259141100F";
+const char *ssid = "TP-Link_Lab";
+const char *password = "10203040";
 
 void startCameraServer();
 void setupLedFlash();
